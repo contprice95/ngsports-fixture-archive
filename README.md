@@ -1,2 +1,14 @@
 # ngsports-fixture-archive
-HTML page archive and documentation
+
+静态内容发布记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
